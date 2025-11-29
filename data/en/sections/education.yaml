@@ -4,101 +4,53 @@ section:
   id: education
   template: sections/education.html # Use "sections/education-alt.html for alternate template.
   enable: true
-  weight: 4
+  weight: 2
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
 
 degrees:
-- name: Ph.D in Quantum Cryptography
-  icon: fa-microscope
-  timeframe: 2016-2020
-  institution:
-    name: ABC University of Technology
-    url: "#"
-    logo: /images/sections/education/tech_college.png
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/education/tech_college.png
-  grade: #(optional)
-    scale: CGPA
-    achieved: 3.6
-    outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
-  - title: Nullam vitae orci tincidunt purus viverra pulvinar.
-    url: "#"
-- name: B.Sc. in Computer Science & Engineering
-  icon: fa-graduation-cap
-  timeframe: 2012-2016
-  institution:
-    name: University of XYZ
-    url: "#"
-    logo: /images/sections/education/university.jpg
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/education/university.jpg
-  grade: #(optional)
-    scale: CGPA
-    achieved: 3.5
-    outOf: 4
-  takenCourses: #(optional)
-    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: true
-    collapseAfter: 3
-    courses:
-    - name: Data Structures and Algorithm
-      achieved: 3.75
-      outOf: 4
-    - name: Network Security
-      achieved: 3.80
-      outOf: 4
-    - name: Operating System
-      achieved: 3.5
-      outOf: 4
-    - name: Artificial Intelligent
-      achieved: 3.75
-      outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
-  extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-  customSections: #(optional)
-    - name: Thesis
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - name: Supervisor
-      content: Fusce eu augue ut odio porttitor pulvinar.
-- name: Higher Secondary School Certificate
-  icon: fa-university
-  timeframe: 2010-2012
-  institution:
-    name: MST College of Science
-    url: "#"
-    logo: /images/sections/education/science_college.png
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/education/science_college.png
-  grade: #(optional)
-    scale: GPA
-    achieved: 5
-    outOf: 5
-  extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-- name: Secondary School Certificate
+- name: Diploma di liceo linguistico
   icon: fa-school
-  timeframe: 2005-2010
+  timeframe: 2010-2015
   institution:
-    name: JK School of Science
-  grade: #(optional)
-    scale: GPA
-    achieved: 4.5
-    outOf: 5
+    name: Liceo Linguistico V. Gioberti
+    url: "https://www.iissimoncellisora.edu.it/indirizzo-di-studio/liceo-linguistico/"
+    logo: "https://www.iissimoncellisora.edu.it/wp-content/themes/design-scuole-wordpress-theme-main/assets/placeholders/logo-service.png"
+  #grade:
+  #  scale: Voto
+  #  achieved: 92
+  #  outOf: 100
+- name: Laurea Triennale in Mediazione Linguistica e Comunicazione Interculturale
+  icon: fa-graduation-cap
+  timeframe: 2015-2022
+  institution:
+    name: Università G. D’Annunzio
+    url: "https://www.unich.it/didattica/lauree-triennali-e-ciclo-unico/mediazione-linguistica-e-comunicazione-interculturale"
+    logo: /images/sections/education/logo_uda.png
+  grade:
+    scale: Voto
+    achieved: 93
+    outOf: 110
+- name: TEF - Test Evaluation du Française
+  icon: fa-university
+  timeframe: 2023
+  institution:
+    name: Alliance Française
+    url: "https://www.afbologna.it/dfp-tef/"
+    logo: /images/sections/education/af_bo.png
+  grade:
+    scale: Livello
+    achieved: B2
+    outOf: C2
+- name: Corso di traduzione editoriale “Come tradurre un libro” con Silvia Rota Sperti
+  icon: fa-book-open
+  timeframe: 2025
+  institution:
+    name: Scuola Holden in collaborazione con Feltrinelli Education
+    url: "https://scuolaholden.it/come-tradurre-un-libro/"
+    logo: /images/sections/education/holden.png
+  #grade:
+    scale: Voto
+    achieved: 0
+    outOf: 10

@@ -1,9 +1,9 @@
 # section information
 section:
-  name: দক্ষতা
+  name: Competenze
   id: skills
   enable: true
-  weight: 2
+  weight: 4
   showOnNavbar: true
   template: sections/skills.html
   # Can optionally hide the title in sections

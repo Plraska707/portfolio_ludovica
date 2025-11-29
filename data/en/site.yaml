@@ -7,7 +7,7 @@ copyright: © 2020 Copyright.
 #However, the theme author does not provide any warranty or takes any liability for any issue with the theme."
 
 # Meta description for your site.  This will help the search engines to find your site.
-description: Portfolio and personal blog of Ludovica Marcelli.
+description: Portfolio of Ludovica Marcelli.
 
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
@@ -25,5 +25,5 @@ openGraph:
   title: Ludovica's Blog
   type: website
   description: Portfolio and personal blog of Ludovica Marcelli.
-  image: images/author/john.png
-  url: https://plraska707.github.io/hugo/index.html
+  image: images/author/jessica.png
+  url: https://github.com/Plraska707/portfolio_ludovica
