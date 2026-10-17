@@ -60,7 +60,7 @@ degrees:
   institution:
     name: Università Unimarconi
     url: "https://www.unimarconi.it/en/practical-eu-project-design-from-vision-to-implementation/"
-    logo: /images/sections/education/logo_unimarconi_bianco.png
+    logo: /images/sections/education/logo_unimarconi_abbreviato.png
   #grade:
     scale: Voto
     achieved: 0
@@ -71,7 +71,7 @@ degrees:
   institution:
     name: Università Unimarconi
     url: "https://www.unimarconi.it/en/global-marketing-and-international-markets/"
-    logo: /images/sections/education/logo_unimarconi_bianco.png
+    logo: /images/sections/education/logo_unimarconi_abbreviato.png
   #grade:
     scale: Voto
     achieved: 0

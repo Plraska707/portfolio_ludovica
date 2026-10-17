@@ -60,7 +60,7 @@ degrees:
   institution:
     name: Università Unimarconi
     url: "https://www.unimarconi.it/europrogettazione-pratica-dalla-visione-alla-realizzazione/"
-    logo: /images/sections/education/logo_unimarconi_bianco.png
+    logo: /images/sections/education/logo_unimarconi_abbreviato.png
   #grade:
     scale: Voto
     achieved: 0
@@ -71,7 +71,7 @@ degrees:
   institution:
     name: Università Unimarconi
     url: "https://www.unimarconi.it/global-marketing-e-mercati-internazionali/"
-    logo: /images/sections/education/logo_unimarconi_bianco.png
+    logo: /images/sections/education/logo_unimarconi_abbreviato.png
   #grade:
     scale: Voto
     achieved: 0
