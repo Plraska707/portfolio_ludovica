@@ -2,7 +2,7 @@
 section:
   name: Progetti
   id: projects
-  enable: true
+  enable: false
   weight: 5
   showOnNavbar: true
   template: sections/projects.html

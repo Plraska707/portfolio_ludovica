@@ -1,6 +1,6 @@
 baseURL: https://hugo-toha.github.io
 
-languageCode: bn
+locale: bn
 title: "Portfolio di Ludovica"
 
 # Use Hugo modules to add theme
@@ -21,13 +21,13 @@ module:
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
 languages:
   en:
-    languageCode: en
-    languageName: English
+    locale: en
+    label: English
     title: "Ludovica's Portfolio"
     weight: 2
   it:
-    languageCode: it
-    languageName: Italiano
+    locale: it
+    label: Italiano
     title: "Portfolio di Ludovica"
     weight: 1
 # default language for the content
