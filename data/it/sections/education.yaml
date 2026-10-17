@@ -55,7 +55,7 @@ degrees:
     achieved: 0
     outOf: 10
 - name: Corso di Europrogettazione
-  icon: fa-univeristy
+  icon: fa-university
   timeframe: 2026
   institution:
     name: Università Unimarconi
@@ -66,7 +66,7 @@ degrees:
     achieved: 0
     outOf: 10
 - name: Master in Global Marketing e Mercati Internazionali
-  icon: fa-univeristy
+  icon: fa-university
   timeframe: 2026-2027
   institution:
     name: Università Unimarconi
