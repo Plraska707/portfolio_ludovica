@@ -54,3 +54,25 @@ degrees:
     scale: Voto
     achieved: 0
     outOf: 10
+- name: Corso di Europrogettazione
+  icon: fa-univeristy
+  timeframe: 2026
+  institution:
+    name: Università Unimarconi
+    url: "https://www.unimarconi.it/europrogettazione-pratica-dalla-visione-alla-realizzazione/"
+    logo: /images/sections/education/logo_unimarconi_bianco.png
+  #grade:
+    scale: Voto
+    achieved: 0
+    outOf: 10
+- name: Master in Global Marketing e Mercati Internazionali
+  icon: fa-univeristy
+  timeframe: 2026-2027
+  institution:
+    name: Università Unimarconi
+    url: "https://www.unimarconi.it/global-marketing-e-mercati-internazionali/"
+    logo: /images/sections/education/logo_unimarconi_bianco.png
+  #grade:
+    scale: Voto
+    achieved: 0
+    outOf: 10

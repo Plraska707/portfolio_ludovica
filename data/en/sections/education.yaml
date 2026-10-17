@@ -10,7 +10,7 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Diploma di liceo linguistico
+- name: High School Diploma in Languages
   icon: fa-school
   timeframe: 2010-2015
   institution:
@@ -21,7 +21,7 @@ degrees:
   #  scale: Voto
   #  achieved: 92
   #  outOf: 100
-- name: Laurea Triennale in Mediazione Linguistica e Comunicazione Interculturale
+- name: Bachelor’s Degree in Language Mediation and Intercultural Communication
   icon: fa-graduation-cap
   timeframe: 2015-2022
   institution:
@@ -43,13 +43,35 @@ degrees:
     scale: Livello
     achieved: B2
     outOf: C2
-- name: Corso di traduzione editoriale “Come tradurre un libro” con Silvia Rota Sperti
+- name: Editorial Translation Course “Come tradurre un libro” (How to translate a book) with Silvia Rota Sperti
   icon: fa-book-open
   timeframe: 2025
   institution:
-    name: Scuola Holden in collaborazione con Feltrinelli Education
+    name: Scuola Holden in partnership with Feltrinelli Education
     url: "https://scuolaholden.it/come-tradurre-un-libro/"
     logo: /images/sections/education/holden.png
+  #grade:
+    scale: Voto
+    achieved: 0
+    outOf: 10
+- name: Practical EU Project Design Course
+  icon: fa-univeristy
+  timeframe: 2026
+  institution:
+    name: Università Unimarconi
+    url: "https://www.unimarconi.it/en/practical-eu-project-design-from-vision-to-implementation/"
+    logo: /images/sections/education/logo_unimarconi_bianco.png
+  #grade:
+    scale: Voto
+    achieved: 0
+    outOf: 10
+- name: Master in Global Marketing and International Markets
+  icon: fa-univeristy
+  timeframe: 2026-2027
+  institution:
+    name: Università Unimarconi
+    url: "https://www.unimarconi.it/en/global-marketing-and-international-markets/"
+    logo: /images/sections/education/logo_unimarconi_bianco.png
   #grade:
     scale: Voto
     achieved: 0

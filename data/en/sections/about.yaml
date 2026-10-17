@@ -8,8 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: DA TRADURRE!!! 
-  Interprete, Traduttrice e Mediatrice linguistica
+designation: Interpreter, Translator, and Linguistic Mediator
 # your company information
 #company:
 #  name: Example Co.
@@ -20,9 +19,9 @@ designation: DA TRADURRE!!!
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'Sono una traduttrice e interprete di madrelingua italiana. 
-  Sono laureata in Mediazione Linguistica e Comunicazione Interculturale.
-  I miei settori di specializzazione sono turismo e letteratura.'
+summary: 'I am a native Italian-speaking translator and interpreter.
+  I hold a degree in Language Mediation and Intercultural Communication.
+  My areas of specialization are tourism and literature.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -39,7 +38,7 @@ socialLinks:
 # For example, you can put link for your resume.
 resourceLinks:
 - title: "My Resume"
-  url: "files/CV_MARCELLI_LUDOVICA.pdf"
+  url: "files/CV_LUDOVICA_MARCELLI_EN.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
